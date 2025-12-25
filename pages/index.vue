@@ -10,7 +10,7 @@ definePageMeta({
 <template>
   <Container>
     <Hero
-      :title="page.hero.title"
+      :title="Vidéo drone"
       :description="page.hero.description"
       :image="page.hero.image"
       :imageAlt="page.hero.imageAlt"
